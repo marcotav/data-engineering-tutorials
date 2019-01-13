@@ -1,5 +1,10 @@
+
 <br>
-<img align="left" width="200" src="postgres.png">
+<br>
+<p align="center">
+  <img src=postgres" width="150" height="150">
+</p>
+<br>
 
 # Postgres Tutorial [[view code]](https://nbviewer.jupyter.org/github/marcotav/data-engineering-tutorials/blob/master/postgres/postgreSQL-tutorial_1.ipynb) 
 
